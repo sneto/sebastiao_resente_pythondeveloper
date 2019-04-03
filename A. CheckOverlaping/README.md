@@ -19,5 +19,7 @@ python ./src/main.py 1,5 5,9
 python ./src/main.py 1,5 2,6
 
 For negative numbers is necessary to use an extra "--" in the command line:
+
 python ./src/main.py -- -1,5 0,2
+
 python ./src/main.py -- -1,5 0,-2

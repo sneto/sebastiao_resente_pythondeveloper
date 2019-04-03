@@ -19,8 +19,15 @@ I let some TODOs in the source code, but these I consider the most important one
 - To implement options to change from one slave to another in case of fail
 - To implement options to reload the slaves server list from time to time, so if new and nearest server are created, the system will automatically start using them
 
-#### Install dependencies:
+#### Install dependencies
+
 pip install -r requirements.txt
 
-#### Run the tests:
+
+#### Configure (I sent valid configuration data by email)
+
+Configure file src/settings.py
+
+#### Run the tests
+
 python -m unittest discover ./tests/

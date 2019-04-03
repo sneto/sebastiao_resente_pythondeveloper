@@ -2,9 +2,6 @@
 
 Function that compares two string versions returning whether they are equals, or which one is greater than the other.   
 
-#### Install dependencies:
-pip install -r requirements.txt
-
 #### Run the system:
 python -m unittest discover ./tests/
 
