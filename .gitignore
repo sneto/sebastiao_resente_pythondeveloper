@@ -1,2 +1,8 @@
 #InteliJ folder
 .idea
+
+# Python cache folders
+__pycache__
+
+# Python cache files
+.pyc
